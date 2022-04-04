@@ -1,0 +1,33 @@
+/*Nav Bar*/
+.navbar-nav a{
+    font-size: 18px;
+}
+.home-title {
+    color: rgb(22, 189, 86);
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: -20%;
+    margin-left: -5%;
+
+}
+.home-text{
+    font-size: 40PX;
+    color: rgb(22, 189, 86);
+    margin-left: -5%;
+}
+
+.product-container{
+    flex-direction: row;
+    justify-content: center;
+}
+
+.product-item{
+    flex-direction: row;
+    height: 140px;
+    width: 140px;
+}
+
+.image-item{
+    height: 120px;
+    width: 120px;
+}
